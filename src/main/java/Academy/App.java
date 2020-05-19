@@ -11,16 +11,5 @@ public class App
         System.out.println( "Hello World!" );
     }
     
-  
-    public void printLine()
-    {
-        System.out.println( "Hello World print line !" );
-    }
-    
-    
-    public void printJira()
-    {
-        System.out.println( "jira !" );
-    }
-    
+      
 }
